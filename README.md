@@ -1,7 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 [![Norbert GitHub stats](https://github-readme-stats.vercel.app/api?username=NorbertNAder)](https://github.com/NorbertNader/github-readme-stats)
-
+-->
 
 <!--
 **NorbertNader/NorbertNader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
