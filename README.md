@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+Software engineer with front end and full stack experience. I kinda miss writing games in flash though...
 <!--
 [![Norbert GitHub stats](https://github-readme-stats.vercel.app/api?username=NorbertNAder)](https://github.com/NorbertNader/github-readme-stats)
 -->
